@@ -4,7 +4,7 @@
 This is my first ever python project and it is used to convert text to speech you could use it for creating audio books. And even for creating bed time stories for tour kids.
 ## The Demo of working page
 
-This is how the page looks like when done in function
+This is how the programme looks like when in function
 
 https://user-images.githubusercontent.com/71783722/129745827-ff585265-9f07-4d70-82f0-b771f4b8f740.mp4
 
