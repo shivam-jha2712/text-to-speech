@@ -1,5 +1,5 @@
 
-# This is my attempt to create a Text to speech converter 
+# Text to speech converter - My first ever python project 
 
 This is my first ever python project and it is used to convert text to speech you could use it for creating audio books. And even for creating bed time stories for tour kids.
 ## The Demo of working page
